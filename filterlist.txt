@@ -1,3 +1,12 @@
+! Title: custom
+! Description: hide shorts, 4 vids per row, nonrounded corners
+! Version: 1
+! Last modified: 
+! Expires: 
+! Homepage: https://github.com/La5u/config
+! License: 
+
+
 ! Removes border radius from Home Page thumbnail
 youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint:style(border-radius: 0px !important) 
 youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail[size="large"] a.ytd-thumbnail, ytd-thumbnail[size="large"]::before:style(border-radius: 0px !important) 
